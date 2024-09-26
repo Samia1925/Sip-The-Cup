@@ -6,29 +6,29 @@ A modern, responsive website built for an imaginary café, "Sip The Cup," showca
 
 
 The project features:
-#Homepage: Engaging hero section encouraging customers to explore the café.
+a)Homepage: Engaging hero section encouraging customers to explore the café.
 
-#Product Pages: Organized showcase of coffee drinks and pastries, with user-friendly shopping cart functionality.
+b)Product Pages: Organized showcase of coffee drinks and pastries, with user-friendly shopping cart functionality.
 
-#Sip Story Pages: Informative history about different Coffee and pastries.
+c)Sip Story Pages: Informative history about different Coffee and pastries.
 
-#Interactive Elements: JavaScript-driven navbar, search bar, and cart animations for a smooth user experience.
+d)Interactive Elements: JavaScript-driven navbar, search bar, and cart animations for a smooth user experience.
 
-#Customer Reviews & Contact Form: Sections for customer feedback and an easy-to-use contact form.
+e)Customer Reviews & Contact Form: Sections for customer feedback and an easy-to-use contact form.
 
-#Responsive Design: Optimized for various devices using CSS media queries, ensuring a consistent experience across mobile, tablet, and desktop views.
+f)Responsive Design: Optimized for various devices using CSS media queries, ensuring a consistent experience across mobile, tablet, and desktop views.
 
 
 Technologies used:
-#HTML5, 
+1. HTML5, 
 
-#CSS3,
+2. CSS3,
 
-#JavaScript (ES6)
+3. JavaScript (ES6)
 
-#Font Awesome icons for enhanced visuals
+4. Font Awesome icons for enhanced visuals
 
-#Responsive design techniques for cross-device compatibility.
+5. Responsive design techniques for cross-device compatibility.
 
 
 
