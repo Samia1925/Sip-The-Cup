@@ -37,3 +37,9 @@ here are some visuals of the project:
 ![products1](https://github.com/user-attachments/assets/6197df28-08eb-48f5-bd8c-389574996826)
 ![products2](https://github.com/user-attachments/assets/eb2e7125-8e98-41ca-8ccb-e1cb26281549)
 ![review](https://github.com/user-attachments/assets/461047ea-c532-4110-9e6f-1594bf37dcc9)
+
+
+
+The identical logo for "Sip The Cup" is designed using Adobe Illustrator for this project.
+![sipTheCup](https://github.com/user-attachments/assets/1ae6524d-5069-4eb9-8e59-b0dce2ff9a9e)
+
